@@ -190,7 +190,7 @@ const Sid ⚡ = {
 <br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/abubucker-siddique-m" target="_blank">
+  <a href="[www.linkedin.com/in/abubucker-siddique-m](https://www.linkedin.com/in/mohamed-usan-abubucker-siddique-m-08057b256/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
